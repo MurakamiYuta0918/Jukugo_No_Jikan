@@ -1,0 +1,879 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3463771ed1d743fa86117d07c4f04a6, type: 3}
+  m_Name: exersice_detail
+  m_EditorClassIdentifier: 
+  Data:
+  - id: 103
+    exercise_id: 18
+    position: 1
+    piece_id: 11
+  - id: 104
+    exercise_id: 18
+    position: 3
+    piece_id: 838
+  - id: 105
+    exercise_id: 18
+    position: 6
+    piece_id: 242
+  - id: 106
+    exercise_id: 18
+    position: 4
+    piece_id: 410
+  - id: 107
+    exercise_id: 18
+    position: 2
+    piece_id: 687
+  - id: 108
+    exercise_id: 18
+    position: 5
+    piece_id: 168
+  - id: 109
+    exercise_id: 19
+    position: 4
+    piece_id: 763
+  - id: 110
+    exercise_id: 19
+    position: 1
+    piece_id: 754
+  - id: 111
+    exercise_id: 19
+    position: 3
+    piece_id: 77
+  - id: 112
+    exercise_id: 19
+    position: 5
+    piece_id: 182
+  - id: 113
+    exercise_id: 19
+    position: 2
+    piece_id: 247
+  - id: 114
+    exercise_id: 19
+    position: 6
+    piece_id: 526
+  - id: 121
+    exercise_id: 21
+    position: 4
+    piece_id: 36
+  - id: 122
+    exercise_id: 21
+    position: 2
+    piece_id: 392
+  - id: 123
+    exercise_id: 21
+    position: 6
+    piece_id: 343
+  - id: 124
+    exercise_id: 21
+    position: 5
+    piece_id: 67
+  - id: 125
+    exercise_id: 21
+    position: 3
+    piece_id: 34
+  - id: 126
+    exercise_id: 21
+    position: 1
+    piece_id: 563
+  - id: 127
+    exercise_id: 22
+    position: 2
+    piece_id: 11
+  - id: 128
+    exercise_id: 22
+    position: 6
+    piece_id: 68
+  - id: 129
+    exercise_id: 22
+    position: 4
+    piece_id: 898
+  - id: 130
+    exercise_id: 22
+    position: 3
+    piece_id: 67
+  - id: 131
+    exercise_id: 22
+    position: 1
+    piece_id: 542
+  - id: 132
+    exercise_id: 22
+    position: 5
+    piece_id: 405
+  - id: 133
+    exercise_id: 23
+    position: 2
+    piece_id: 191
+  - id: 134
+    exercise_id: 23
+    position: 6
+    piece_id: 163
+  - id: 135
+    exercise_id: 23
+    position: 4
+    piece_id: 451
+  - id: 136
+    exercise_id: 23
+    position: 1
+    piece_id: 42
+  - id: 137
+    exercise_id: 23
+    position: 3
+    piece_id: 601
+  - id: 138
+    exercise_id: 23
+    position: 5
+    piece_id: 708
+  - id: 139
+    exercise_id: 24
+    position: 2
+    piece_id: 411
+  - id: 140
+    exercise_id: 24
+    position: 5
+    piece_id: 681
+  - id: 141
+    exercise_id: 24
+    position: 3
+    piece_id: 726
+  - id: 142
+    exercise_id: 24
+    position: 6
+    piece_id: 418
+  - id: 143
+    exercise_id: 24
+    position: 4
+    piece_id: 360
+  - id: 144
+    exercise_id: 24
+    position: 1
+    piece_id: 76
+  - id: 151
+    exercise_id: 26
+    position: 3
+    piece_id: 309
+  - id: 152
+    exercise_id: 26
+    position: 5
+    piece_id: 687
+  - id: 153
+    exercise_id: 26
+    position: 2
+    piece_id: 168
+  - id: 154
+    exercise_id: 26
+    position: 1
+    piece_id: 75
+  - id: 155
+    exercise_id: 26
+    position: 6
+    piece_id: 41
+  - id: 156
+    exercise_id: 26
+    position: 4
+    piece_id: 125
+  - id: 157
+    exercise_id: 27
+    position: 6
+    piece_id: 23
+  - id: 158
+    exercise_id: 27
+    position: 1
+    piece_id: 43
+  - id: 159
+    exercise_id: 27
+    position: 5
+    piece_id: 192
+  - id: 160
+    exercise_id: 27
+    position: 4
+    piece_id: 264
+  - id: 161
+    exercise_id: 27
+    position: 2
+    piece_id: 384
+  - id: 162
+    exercise_id: 27
+    position: 3
+    piece_id: 375
+  - id: 169
+    exercise_id: 29
+    position: 6
+    piece_id: 384
+  - id: 170
+    exercise_id: 29
+    position: 1
+    piece_id: 410
+  - id: 171
+    exercise_id: 29
+    position: 5
+    piece_id: 6
+  - id: 172
+    exercise_id: 29
+    position: 2
+    piece_id: 387
+  - id: 173
+    exercise_id: 29
+    position: 4
+    piece_id: 739
+  - id: 174
+    exercise_id: 29
+    position: 3
+    piece_id: 771
+  - id: 187
+    exercise_id: 32
+    position: 1
+    piece_id: 177
+  - id: 188
+    exercise_id: 32
+    position: 6
+    piece_id: 214
+  - id: 189
+    exercise_id: 32
+    position: 3
+    piece_id: 68
+  - id: 190
+    exercise_id: 32
+    position: 5
+    piece_id: 207
+  - id: 191
+    exercise_id: 32
+    position: 2
+    piece_id: 96
+  - id: 192
+    exercise_id: 32
+    position: 4
+    piece_id: 163
+  - id: 193
+    exercise_id: 33
+    position: 4
+    piece_id: 205
+  - id: 194
+    exercise_id: 33
+    position: 2
+    piece_id: 439
+  - id: 195
+    exercise_id: 33
+    position: 1
+    piece_id: 184
+  - id: 196
+    exercise_id: 33
+    position: 3
+    piece_id: 282
+  - id: 197
+    exercise_id: 33
+    position: 6
+    piece_id: 218
+  - id: 198
+    exercise_id: 33
+    position: 5
+    piece_id: 222
+  - id: 205
+    exercise_id: 35
+    position: 2
+    piece_id: 263
+  - id: 206
+    exercise_id: 35
+    position: 5
+    piece_id: 12
+  - id: 207
+    exercise_id: 35
+    position: 4
+    piece_id: 257
+  - id: 208
+    exercise_id: 35
+    position: 1
+    piece_id: 440
+  - id: 209
+    exercise_id: 35
+    position: 3
+    piece_id: 427
+  - id: 210
+    exercise_id: 35
+    position: 6
+    piece_id: 217
+  - id: 211
+    exercise_id: 36
+    position: 4
+    piece_id: 692
+  - id: 212
+    exercise_id: 36
+    position: 6
+    piece_id: 358
+  - id: 213
+    exercise_id: 36
+    position: 1
+    piece_id: 67
+  - id: 214
+    exercise_id: 36
+    position: 3
+    piece_id: 525
+  - id: 215
+    exercise_id: 36
+    position: 2
+    piece_id: 163
+  - id: 216
+    exercise_id: 36
+    position: 5
+    piece_id: 235
+  - id: 217
+    exercise_id: 37
+    position: 3
+    piece_id: 34
+  - id: 218
+    exercise_id: 37
+    position: 2
+    piece_id: 22
+  - id: 219
+    exercise_id: 37
+    position: 4
+    piece_id: 203
+  - id: 220
+    exercise_id: 37
+    position: 1
+    piece_id: 407
+  - id: 221
+    exercise_id: 37
+    position: 6
+    piece_id: 218
+  - id: 222
+    exercise_id: 37
+    position: 5
+    piece_id: 168
+  - id: 223
+    exercise_id: 38
+    position: 6
+    piece_id: 56
+  - id: 224
+    exercise_id: 38
+    position: 1
+    piece_id: 627
+  - id: 225
+    exercise_id: 38
+    position: 4
+    piece_id: 184
+  - id: 226
+    exercise_id: 38
+    position: 2
+    piece_id: 75
+  - id: 227
+    exercise_id: 38
+    position: 5
+    piece_id: 410
+  - id: 228
+    exercise_id: 38
+    position: 3
+    piece_id: 182
+  - id: 229
+    exercise_id: 39
+    position: 6
+    piece_id: 1
+  - id: 230
+    exercise_id: 39
+    position: 1
+    piece_id: 392
+  - id: 231
+    exercise_id: 39
+    position: 3
+    piece_id: 20
+  - id: 232
+    exercise_id: 39
+    position: 5
+    piece_id: 309
+  - id: 233
+    exercise_id: 39
+    position: 4
+    piece_id: 635
+  - id: 234
+    exercise_id: 39
+    position: 2
+    piece_id: 68
+  - id: 235
+    exercise_id: 40
+    position: 6
+    piece_id: 74
+  - id: 236
+    exercise_id: 40
+    position: 2
+    piece_id: 237
+  - id: 237
+    exercise_id: 40
+    position: 1
+    piece_id: 195
+  - id: 238
+    exercise_id: 40
+    position: 5
+    piece_id: 215
+  - id: 239
+    exercise_id: 40
+    position: 4
+    piece_id: 41
+  - id: 240
+    exercise_id: 40
+    position: 3
+    piece_id: 182
+  - id: 241
+    exercise_id: 41
+    position: 2
+    piece_id: 74
+  - id: 242
+    exercise_id: 41
+    position: 4
+    piece_id: 66
+  - id: 243
+    exercise_id: 41
+    position: 6
+    piece_id: 168
+  - id: 244
+    exercise_id: 41
+    position: 3
+    piece_id: 695
+  - id: 245
+    exercise_id: 41
+    position: 1
+    piece_id: 41
+  - id: 246
+    exercise_id: 41
+    position: 5
+    piece_id: 75
+  - id: 247
+    exercise_id: 42
+    position: 4
+    piece_id: 36
+  - id: 248
+    exercise_id: 42
+    position: 6
+    piece_id: 67
+  - id: 249
+    exercise_id: 42
+    position: 1
+    piece_id: 153
+  - id: 250
+    exercise_id: 42
+    position: 3
+    piece_id: 93
+  - id: 251
+    exercise_id: 42
+    position: 2
+    piece_id: 161
+  - id: 252
+    exercise_id: 42
+    position: 5
+    piece_id: 328
+  - id: 253
+    exercise_id: 43
+    position: 6
+    piece_id: 141
+  - id: 254
+    exercise_id: 43
+    position: 4
+    piece_id: 405
+  - id: 255
+    exercise_id: 43
+    position: 1
+    piece_id: 410
+  - id: 256
+    exercise_id: 43
+    position: 3
+    piece_id: 309
+  - id: 257
+    exercise_id: 43
+    position: 5
+    piece_id: 312
+  - id: 258
+    exercise_id: 43
+    position: 2
+    piece_id: 75
+  - id: 259
+    exercise_id: 44
+    position: 3
+    piece_id: 898
+  - id: 260
+    exercise_id: 44
+    position: 6
+    piece_id: 67
+  - id: 261
+    exercise_id: 44
+    position: 4
+    piece_id: 525
+  - id: 262
+    exercise_id: 44
+    position: 2
+    piece_id: 134
+  - id: 263
+    exercise_id: 44
+    position: 5
+    piece_id: 545
+  - id: 264
+    exercise_id: 44
+    position: 1
+    piece_id: 41
+  - id: 265
+    exercise_id: 45
+    position: 4
+    piece_id: 18
+  - id: 266
+    exercise_id: 45
+    position: 1
+    piece_id: 898
+  - id: 267
+    exercise_id: 45
+    position: 3
+    piece_id: 67
+  - id: 268
+    exercise_id: 45
+    position: 2
+    piece_id: 153
+  - id: 269
+    exercise_id: 45
+    position: 6
+    piece_id: 93
+  - id: 270
+    exercise_id: 45
+    position: 5
+    piece_id: 189
+  - id: 271
+    exercise_id: 46
+    position: 2
+    piece_id: 20
+  - id: 272
+    exercise_id: 46
+    position: 1
+    piece_id: 74
+  - id: 273
+    exercise_id: 46
+    position: 3
+    piece_id: 41
+  - id: 274
+    exercise_id: 46
+    position: 6
+    piece_id: 75
+  - id: 275
+    exercise_id: 46
+    position: 5
+    piece_id: 177
+  - id: 276
+    exercise_id: 46
+    position: 4
+    piece_id: 123
+  - id: 277
+    exercise_id: 47
+    position: 2
+    piece_id: 758
+  - id: 278
+    exercise_id: 47
+    position: 4
+    piece_id: 51
+  - id: 279
+    exercise_id: 47
+    position: 1
+    piece_id: 34
+  - id: 280
+    exercise_id: 47
+    position: 6
+    piece_id: 7
+  - id: 281
+    exercise_id: 47
+    position: 3
+    piece_id: 407
+  - id: 282
+    exercise_id: 47
+    position: 5
+    piece_id: 96
+  - id: 283
+    exercise_id: 48
+    position: 3
+    piece_id: 96
+  - id: 284
+    exercise_id: 48
+    position: 6
+    piece_id: 407
+  - id: 285
+    exercise_id: 48
+    position: 4
+    piece_id: 7
+  - id: 286
+    exercise_id: 48
+    position: 1
+    piece_id: 184
+  - id: 287
+    exercise_id: 48
+    position: 5
+    piece_id: 411
+  - id: 288
+    exercise_id: 48
+    position: 2
+    piece_id: 440
+  - id: 295
+    exercise_id: 50
+    position: 6
+    piece_id: 95
+  - id: 296
+    exercise_id: 50
+    position: 4
+    piece_id: 74
+  - id: 297
+    exercise_id: 50
+    position: 1
+    piece_id: 75
+  - id: 298
+    exercise_id: 50
+    position: 5
+    piece_id: 42
+  - id: 299
+    exercise_id: 50
+    position: 3
+    piece_id: 601
+  - id: 300
+    exercise_id: 50
+    position: 2
+    piece_id: 800
+  - id: 301
+    exercise_id: 51
+    position: 4
+    piece_id: 3
+  - id: 302
+    exercise_id: 51
+    position: 3
+    piece_id: 42
+  - id: 303
+    exercise_id: 51
+    position: 6
+    piece_id: 601
+  - id: 304
+    exercise_id: 51
+    position: 2
+    piece_id: 41
+  - id: 305
+    exercise_id: 51
+    position: 1
+    piece_id: 44
+  - id: 306
+    exercise_id: 51
+    position: 5
+    piece_id: 410
+  - id: 307
+    exercise_id: 52
+    position: 1
+    piece_id: 89
+  - id: 308
+    exercise_id: 52
+    position: 6
+    piece_id: 197
+  - id: 309
+    exercise_id: 52
+    position: 3
+    piece_id: 387
+  - id: 310
+    exercise_id: 52
+    position: 2
+    piece_id: 739
+  - id: 311
+    exercise_id: 52
+    position: 5
+    piece_id: 771
+  - id: 312
+    exercise_id: 52
+    position: 4
+    piece_id: 377
+  - id: 313
+    exercise_id: 53
+    position: 6
+    piece_id: 887
+  - id: 314
+    exercise_id: 53
+    position: 3
+    piece_id: 544
+  - id: 315
+    exercise_id: 53
+    position: 5
+    piece_id: 235
+  - id: 316
+    exercise_id: 53
+    position: 1
+    piece_id: 246
+  - id: 317
+    exercise_id: 53
+    position: 4
+    piece_id: 20
+  - id: 318
+    exercise_id: 53
+    position: 2
+    piece_id: 11
+  - id: 319
+    exercise_id: 54
+    position: 1
+    piece_id: 547
+  - id: 320
+    exercise_id: 54
+    position: 3
+    piece_id: 6
+  - id: 321
+    exercise_id: 54
+    position: 2
+    piece_id: 98
+  - id: 322
+    exercise_id: 54
+    position: 6
+    piece_id: 256
+  - id: 323
+    exercise_id: 54
+    position: 5
+    piece_id: 39
+  - id: 324
+    exercise_id: 54
+    position: 4
+    piece_id: 568
+  - id: 325
+    exercise_id: 55
+    position: 6
+    piece_id: 374
+  - id: 326
+    exercise_id: 55
+    position: 3
+    piece_id: 700
+  - id: 327
+    exercise_id: 55
+    position: 5
+    piece_id: 618
+  - id: 328
+    exercise_id: 55
+    position: 1
+    piece_id: 384
+  - id: 329
+    exercise_id: 55
+    position: 4
+    piece_id: 78
+  - id: 330
+    exercise_id: 55
+    position: 2
+    piece_id: 521
+  - id: 331
+    exercise_id: 56
+    position: 5
+    piece_id: 919
+  - id: 332
+    exercise_id: 56
+    position: 3
+    piece_id: 116
+  - id: 333
+    exercise_id: 56
+    position: 6
+    piece_id: 91
+  - id: 334
+    exercise_id: 56
+    position: 1
+    piece_id: 89
+  - id: 335
+    exercise_id: 56
+    position: 4
+    piece_id: 36
+  - id: 336
+    exercise_id: 56
+    position: 2
+    piece_id: 22
+  - id: 337
+    exercise_id: 57
+    position: 3
+    piece_id: 184
+  - id: 338
+    exercise_id: 57
+    position: 5
+    piece_id: 223
+  - id: 339
+    exercise_id: 57
+    position: 1
+    piece_id: 612
+  - id: 340
+    exercise_id: 57
+    position: 4
+    piece_id: 527
+  - id: 341
+    exercise_id: 57
+    position: 6
+    piece_id: 242
+  - id: 342
+    exercise_id: 57
+    position: 2
+    piece_id: 347
+  - id: 343
+    exercise_id: 58
+    position: 3
+    piece_id: 896
+  - id: 344
+    exercise_id: 58
+    position: 5
+    piece_id: 34
+  - id: 345
+    exercise_id: 58
+    position: 4
+    piece_id: 612
+  - id: 346
+    exercise_id: 58
+    position: 2
+    piece_id: 527
+  - id: 347
+    exercise_id: 58
+    position: 6
+    piece_id: 242
+  - id: 348
+    exercise_id: 58
+    position: 1
+    piece_id: 164
+  - id: 355
+    exercise_id: 60
+    position: 1
+    piece_id: 434
+  - id: 356
+    exercise_id: 60
+    position: 2
+    piece_id: 76
+  - id: 357
+    exercise_id: 60
+    position: 4
+    piece_id: 176
+  - id: 358
+    exercise_id: 60
+    position: 3
+    piece_id: 39
+  - id: 359
+    exercise_id: 60
+    position: 6
+    piece_id: 34
+  - id: 360
+    exercise_id: 60
+    position: 5
+    piece_id: 7
+  - id: 361
+    exercise_id: 61
+    position: 2
+    piece_id: 26
+  - id: 362
+    exercise_id: 61
+    position: 3
+    piece_id: 951
+  - id: 363
+    exercise_id: 61
+    position: 5
+    piece_id: 39
+  - id: 364
+    exercise_id: 61
+    position: 6
+    piece_id: 34
+  - id: 365
+    exercise_id: 61
+    position: 1
+    piece_id: 7
+  - id: 366
+    exercise_id: 61
+    position: 4
+    piece_id: 8

@@ -1,0 +1,3 @@
+[submodule "Assets/NetworkPuzzle"]
+	path = Assets/NetworkPuzzle
+	url = git@gitlab.com:GunmaUniversity-YamazakiLaboratory/network_puzzle_module-unity.git

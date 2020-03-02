@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - AnchorObj
+  - LocalManager
+  - Anchor
+  - Left
+  - Right
+  - TimeCounter
+  - StageTimeUp
+  - House
+  - Wire
+  - Edge
+  - Stage
+  - Up
+  - Down
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PartsField
+  - KanjiPart
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AnserField
+    uniqueID: 3919594067
+    locked: 0
+  - name: Kanji
+    uniqueID: 1534633765
+    locked: 0
+  - name: Player
+    uniqueID: 3213437315
+    locked: 0
